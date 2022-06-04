@@ -37,7 +37,7 @@ HTML_CSS = f"""
 HTML(HTML_CSS)
 ```
 
-> Note : You will need to run that every time you start a notebook, and the matplotlib theme will not be applied. See below for a more permanent installation
+> Note : You will need to run that every time you start a notebook. See below for a more permanent installation
 
 ---
 
