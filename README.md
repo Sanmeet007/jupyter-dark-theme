@@ -43,6 +43,29 @@ HTML(HTML_CSS)
 
 For a permanent installation, we first need to copy `custom.css` file to `~/.jupyter/custom/custom.css`.
 
+#### Using windows cmd and explorer
+
+First we need to generate the config for the jupyter notebook.After this we need to paste our `custom.css` file to `~/.jupyter/custom/`.
+
+```bash
+jupyter notebook --generate-config
+cd .jupyter
+mkdir custom # may already exist
+explorer .
+```
+
+Now paste the downloaded `custom.css` file here in this file location `~/.jupyter/custom/`
+
+#### Checking if css was installed correctly
+
+```
+jupyter notebook
+```
+
+> Note : Here the `~` denotes the path before the .jpuyter folder.
+
+#### Using bash only
+
 ```bash
 cd ~/.jupyter
 mkdir custom  # may already exist
