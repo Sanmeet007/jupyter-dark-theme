@@ -1,14 +1,12 @@
 ## Custom dark theme for Jupyter Notebooks
 
+
 The best dark jupyter theme for your web browser. It's simple and coherent. It's one beautiful dark theme (dark skin) for your jupyter notebook. Protects your eyes from the white color in dark.
 
 ## Preview
 
-<img width="1008" alt="Screenshot 2021-03-10 at 8 16 46 PM" src="https://sanmeet007.github.io/python-protos/images/Screenshot%20(60).png">
-
-<img width="1008" alt="Screenshot 2021-03-10 at 8 16 18 PM" src="https://sanmeet007.github.io/python-protos/images/Screenshot%20(59).png">
-
-<img width="1008" alt="Screenshot 2021-03-10 at 8 17 27 PM" src="https://sanmeet007.github.io/python-protos/images/Screenshot%20(56).png">
+<img width="1008" alt="Jupyter Notebook" src="https://i.ibb.co/LNh5g2c/Screenshot-203.png">
+<img width="1008" alt="Jupyter Notebook" src="https://i.ibb.co/93qDd2X/Screenshot-204.png">
 
 ## Requirements
 
